@@ -5,10 +5,34 @@
 <p align=center>
 	The <b>fdf</b> program is a wireframe generator that takes .fdf format files and transforms them into tridimensional representations of relief landscapes. It manages colors and basic transformation, such as zoom, Z axis scaling. This project aims for the student to get familiarized with window management and pixel insertion on screen, using <i>MinilibX</i> library and pure C coding.  
 
-<h3 align=center>
-</h3>
+<h2>
+Usage
+</h2>
 
-> <i> fdf <b>must</b> have: 
-> - isometric projection;
-> - Exiting of screen by pressing 'ESC';
-> - Use of MinilibX's 'images' is strongly reccomended.</i>
+### Requirements
+`fdf` requires a *gcc* compiler, MinilibX, X-Window and some standard libraries. At the moment, this particular project runs only on Linux systems. 
+
+### Instructions
+
+Clone this repository in your local computer:
+
+```sh
+$> git clone https://github.com/sbouaa/FdF.git path/to/fdf
+```
+
+In your local repository, run `make`
+
+```sh
+$> make 
+```
+
+> `make` suports 4 flags:
+> - `make all` or simply `make` compiles fdf in its mandatory format
+> - `make clean` deletes the `.o` files generated during compilation
+> - `make fclean` deletes the `.o` and the `fdf` file generated
+> - `make re` executes `fclean` and `all` in sequence, recompiling the program
+
+To run `fdf`, type:
+```sh
+./fdf test_maps/<choose-your-map.fdf>
+```
