@@ -6,7 +6,7 @@
 /*   By: sbouaa <sbouaa@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/21 15:20:52 by sbouaa            #+#    #+#             */
-/*   Updated: 2025/04/17 11:53:43 by sbouaa           ###   ########.fr       */
+/*   Updated: 2025/04/18 13:55:10 by sbouaa           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,8 +27,6 @@
 #  define BUFFER_SIZE 3000
 # endif 
 
-# define ZOOM 15
-# define HEIGHT_SCALE 1
 # define X 2560
 # define Y 1440
 

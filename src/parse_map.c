@@ -6,7 +6,7 @@
 /*   By: sbouaa <sbouaa@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/03/23 01:20:41 by sbouaa            #+#    #+#             */
-/*   Updated: 2025/04/17 08:50:03 by sbouaa           ###   ########.fr       */
+/*   Updated: 2025/04/18 13:55:41 by sbouaa           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,10 +15,6 @@
 int	check_v(void)
 {
 	if ((X > 2560 || Y > 1440) || (X <= 0 || Y <= 0))
-		return (1);
-	if (ZOOM < -1 || ZOOM > 50)
-		return (1);
-	if (HEIGHT_SCALE > 40 || HEIGHT_SCALE < -40)
 		return (1);
 	return (0);
 }
