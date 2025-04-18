@@ -3,7 +3,12 @@
 </h1>
 
 <p align=center>
-	The <b>fdf</b> program is a wireframe generator that takes .fdf format files and transforms them into tridimensional representations of relief landscapes. It manages colors and basic transformation, such as zoom, Z axis scaling. This project aims for the student to get familiarized with window management and pixel insertion on screen, using <i>MinilibX</i> library and pure C coding.  
+# 42-FdF
+
+## Overview
+
+The 42-FdF project is part of the 42 school's curriculum, focusing on graphics programming. The objective is to develop a program that reads a file containing a grid of height values and generates a 3D wireframe representation of the corresponding landscape. This project enhances understanding of 3D projections, transformations, and the use of graphics libraries in C.
+The <b>fdf</b> program is a wireframe generator that takes .fdf format files and transforms them into tridimensional representations of relief landscapes. It manages colors and basic transformation, such as zoom, Z axis scaling. This project aims for the student to get familiarized with window management and pixel insertion on screen, using <i>MinilibX</i> library and pure C coding.  
 
 <h2>
 Usage
