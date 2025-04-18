@@ -11,6 +11,17 @@ The <b>fdf</b> program is a wireframe generator that takes .fdf format files and
 
 ## Screenshot
 ![screenshot1](https://github.com/sbouaa/FdF/blob/main/.extra/11.png)
+![screenshot1](https://github.com/sbouaa/FdF/blob/main/.extra/03.png)
+![screenshot2](https://github.com/sbouaa/FdF/blob/main/.extra/02.png)
+![screenshot1](https://github.com/sbouaa/FdF/blob/main/.extra/04.png)
+![screenshot2](https://github.com/sbouaa/FdF/blob/main/.extra/01.png)
+![screenshot1](https://github.com/sbouaa/FdF/blob/main/.extra/05.png)
+![screenshot2](https://github.com/sbouaa/FdF/blob/main/.extra/06.png)
+![screenshot1](https://github.com/sbouaa/FdF/blob/main/.extra/09.png)
+![screenshot2](https://github.com/sbouaa/FdF/blob/main/.extra/12.png)
+![screenshot1](https://github.com/sbouaa/FdF/blob/main/.extra/08.png)
+![screenshot2](https://github.com/sbouaa/FdF/blob/main/.extra/10.png)
+
 
 <h2>
 Usage
