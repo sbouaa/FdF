@@ -10,7 +10,7 @@ The 42-FdF project is part of the 42 school's curriculum, focusing on graphics p
 The <b>fdf</b> program is a wireframe generator that takes .fdf format files and transforms them into tridimensional representations of relief landscapes. It manages colors and basic transformation, such as zoom, Z axis scaling. This project aims for the student to get familiarized with window management and pixel insertion on screen, using <i>MinilibX</i> library and pure C coding.  
 
 ## Screenshot
-![screenshot1](01.jpg)
+![screenshot1](https://github.com/sbouaa/FdF/blob/main/.extra/11.png)
 
 <h2>
 Usage
