@@ -54,3 +54,7 @@ To run `fdf`, type:
 ```sh
 ./fdf test_maps/<choose-your-map.fdf>
 ```
+**Controls**:
+
+- **Zoom**: Press `+` to zoom in and `-` to zoom out.
+- **Z-axis Scaling**: Adjust the elevation scale using `h` and `k` keys.
