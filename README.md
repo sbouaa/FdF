@@ -35,7 +35,7 @@ Usage
 Clone this repository in your local computer:
 
 ```sh
-$> git clone https://github.com/sbouaa/FdF.git path/to/fdf
+$> git clone https://github.com/sbouaa/FdF.git path/to/fdf 
 ```
 
 In your local repository, run `make`
